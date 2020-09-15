@@ -1,0 +1,77 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders ProductCard correctly when there is a palindrono search 1`] = `
+<div
+  className="card puntero"
+>
+  <img
+    alt="..."
+    className="card-img-top"
+    src="http://undefined"
+  />
+  <div
+    className="card-body"
+  >
+    <p>
+      <b
+        className="card-title"
+      >
+         
+      </b>
+      <span
+        className="card-desc"
+      />
+    </p>
+    <div>
+      <p
+        className="card-text"
+      >
+        $
+         
+        <span
+          className="badge badge-pill badge-primary custom-badge"
+        >
+          50%
+        </span>
+      </p>
+      <p
+        className="current-price"
+      >
+        $
+        NaN
+      </p>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`renders ProductCard correctly when there is not palindrono search 1`] = `
+<div
+  className="card puntero"
+>
+  <img
+    alt="..."
+    className="card-img-top"
+    src="http://undefined"
+  />
+  <div
+    className="card-body"
+  >
+    <p>
+      <b
+        className="card-title"
+      >
+         
+      </b>
+      <span
+        className="card-desc"
+      />
+    </p>
+    <p
+      className="card-text"
+    >
+      $
+    </p>
+  </div>
+</div>
+`;
