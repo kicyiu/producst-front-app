@@ -23,5 +23,5 @@ $ npm test
 
 ### Versión demo en Heroku
 Para acceder ana versión de prueba desplegada en Heroku
-Acceda a la siguiente url [https://products-front-app.herokuapp.com](https://products-front-app.herokuapp
+Acceda a la siguiente url [https://products-front-app.herokuapp.com](https://products-front-app.herokuapp)
 
