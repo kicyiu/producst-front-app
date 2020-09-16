@@ -14,7 +14,7 @@ Abra [http://localhost:3000](http://localhost:3000) para ver en el navegador.
 
 ### Ejecutar las pruebas unitarias
 
-Las pruebas unitarias incluidas en el proyecto estàn enfocados a la carga de los elementos contenedores,
+Las pruebas unitarias incluidas en el proyecto están enfocados a la carga de los elementos contenedores,
 se hace una comparación de la vista actual con un snapshot previamente guardado por cada vista
 ```sh
 $ npm test
